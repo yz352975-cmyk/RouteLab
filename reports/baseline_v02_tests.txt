@@ -1,0 +1,9 @@
+test_failure_during_vision_change (test_game.GameTests.test_failure_during_vision_change) ... ok
+test_reference_code_every_story_event (test_game.GameTests.test_reference_code_every_story_event) ... ok
+test_reference_code_random_incidents (test_game.GameTests.test_reference_code_random_incidents) ... ok
+test_runner_subprocess (test_game.GameTests.test_runner_subprocess) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.149s
+
+OK

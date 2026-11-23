@@ -1,0 +1,50 @@
+test_global_validator_rejects_failed_link (test_distance_vector.CompatibilityTests.test_global_validator_rejects_failed_link) ... ok
+test_malformed_route_does_not_crash_validator (test_distance_vector.CompatibilityTests.test_malformed_route_does_not_crash_validator) ... ok
+test_original_global_program_still_runs (test_distance_vector.CompatibilityTests.test_original_global_program_still_runs) ... ok
+test_original_local_api_remains_available_for_legacy_worlds (test_distance_vector.CompatibilityTests.test_original_local_api_remains_available_for_legacy_worlds) ... ok
+test_authenticated_source_can_still_lie (test_distance_vector.DistributedAlgorithmTests.test_authenticated_source_can_still_lie) ... ok
+test_bad_news_increases_distance_instead_of_minimum_only (test_distance_vector.DistributedAlgorithmTests.test_bad_news_increases_distance_instead_of_minimum_only) ... ok
+test_context_cannot_mutate_other_tables (test_distance_vector.DistributedAlgorithmTests.test_context_cannot_mutate_other_tables) ... ok
+test_count_to_infinity_is_a_computed_sequence (test_distance_vector.DistributedAlgorithmTests.test_count_to_infinity_is_a_computed_sequence) ... ok
+test_false_announcement_uses_real_message_transport (test_distance_vector.DistributedAlgorithmTests.test_false_announcement_uses_real_message_transport) ... ok
+test_invalid_metrics_get_explanatory_error (test_distance_vector.DistributedAlgorithmTests.test_invalid_metrics_get_explanatory_error) ... ok
+test_learning_requires_actual_message_arrival (test_distance_vector.DistributedAlgorithmTests.test_learning_requires_actual_message_arrival) ... ok
+test_local_view_contains_no_graph_or_oracle_distances (test_distance_vector.DistributedAlgorithmTests.test_local_view_contains_no_graph_or_oracle_distances) ... ok
+test_loop_observer_deduplicates_and_ignores_down_links (test_distance_vector.DistributedAlgorithmTests.test_loop_observer_deduplicates_and_ignores_down_links) ... ok
+test_observer_detects_real_fault_loop_before_probe (test_distance_vector.DistributedAlgorithmTests.test_observer_detects_real_fault_loop_before_probe) ... ok
+test_partition_then_repair_converges_from_existing_state (test_distance_vector.DistributedAlgorithmTests.test_partition_then_repair_converges_from_existing_state) ... ok
+test_player_state_schema_is_not_assumed_by_engine (test_distance_vector.DistributedAlgorithmTests.test_player_state_schema_is_not_assumed_by_engine) ... ok
+test_poison_reverse_does_not_claim_to_prevent_all_longer_loops (test_distance_vector.DistributedAlgorithmTests.test_poison_reverse_does_not_claim_to_prevent_all_longer_loops) ... ok
+test_poison_reverse_removes_two_router_loop (test_distance_vector.DistributedAlgorithmTests.test_poison_reverse_removes_two_router_loop) ... ok
+test_policy_changes_propagate_into_remote_tables (test_distance_vector.DistributedAlgorithmTests.test_policy_changes_propagate_into_remote_tables) ... ok
+test_checkpoint_retains_old_tables_and_pending_messages (test_distance_vector.SessionTests.test_checkpoint_retains_old_tables_and_pending_messages) ... ok
+test_child_print_unicode_does_not_break_json (test_distance_vector.SessionTests.test_child_print_unicode_does_not_break_json) ... ok
+test_delivery_without_distributed_convergence_cannot_skip_experiment (test_distance_vector.SessionTests.test_delivery_without_distributed_convergence_cannot_skip_experiment) ... ok
+test_failure_loop_is_forwarded_until_ttl_not_rejected_by_visited (test_distance_vector.SessionTests.test_failure_loop_is_forwarded_until_ttl_not_rejected_by_visited) ... ok
+test_forward_phase_state_mutations_are_retained (test_distance_vector.SessionTests.test_forward_phase_state_mutations_are_retained) ... ok
+test_module_globals_are_independent_per_router (test_distance_vector.SessionTests.test_module_globals_are_independent_per_router) ... ok
+test_real_child_timeout (test_distance_vector.SessionTests.test_real_child_timeout) ... ok
+test_same_event_and_retry_are_bitwise_reproducible (test_distance_vector.SessionTests.test_same_event_and_retry_are_bitwise_reproducible) ... ok
+test_scheduled_partition_and_recovery_are_in_trace (test_distance_vector.SessionTests.test_scheduled_partition_and_recovery_are_in_trace) ... ok
+test_ten_consecutive_random_incidents_no_forced_dead_end (test_distance_vector.SessionTests.test_ten_consecutive_random_incidents_no_forced_dead_end) ... ok
+test_three_prior_algorithms_fail_for_different_reasons (test_distance_vector.SessionTests.test_three_prior_algorithms_fail_for_different_reasons) ... ok
+test_unserializable_state_is_reported_cleanly (test_distance_vector.SessionTests.test_unserializable_state_is_reported_cleanly) ... ok
+test_delay_and_equal_time_fifo_order (test_distance_vector.TransportTests.test_delay_and_equal_time_fifo_order) ... ok
+test_impossible_zero_delay_is_rejected (test_distance_vector.TransportTests.test_impossible_zero_delay_is_rejected) ... ok
+test_inflight_message_dies_across_link_down_and_repair (test_distance_vector.TransportTests.test_inflight_message_dies_across_link_down_and_repair) ... ok
+test_message_overtaking_is_visible_not_fixed_by_engine (test_distance_vector.TransportTests.test_message_overtaking_is_visible_not_fixed_by_engine) ... ok
+test_player_sequence_rule_rejects_old_and_duplicate_messages (test_distance_vector.TransportTests.test_player_sequence_rule_rejects_old_and_duplicate_messages) ... ok
+test_timeout_expires_only_cached_remote_information (test_distance_vector.TransportTests.test_timeout_expires_only_cached_remote_information) ... ok
+test_failure_during_vision_change (test_game.GameTests.test_failure_during_vision_change) ... ok
+test_reference_code_every_story_event (test_game.GameTests.test_reference_code_every_story_event) ... ok
+test_reference_code_random_incidents (test_game.GameTests.test_reference_code_random_incidents) ... ok
+test_runner_subprocess (test_game.GameTests.test_runner_subprocess) ... ok
+test_empty_and_hardcoded_solutions_fail (test_tutorial.TutorialTests.test_empty_and_hardcoded_solutions_fail) ... ok
+test_extension_preserves_player_work (test_tutorial.TutorialTests.test_extension_preserves_player_work) ... ok
+test_incremental_workshop (test_tutorial.TutorialTests.test_incremental_workshop) ... ok
+setUpClass (test_ui.UITests) ... skipped 'GUI 无可用显示服务：no display name and no $DISPLAY environment variable'
+
+----------------------------------------------------------------------
+Ran 44 tests in 35.309s
+
+OK (skipped=1)
