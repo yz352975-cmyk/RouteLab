@@ -23,6 +23,8 @@ py -3 RouteLab.py
 - 按运营商互联协议、费用与服务目标选择合规路线。
 - 完成运营商任务后进入 S1、S2 安全教学，编写限速策略并检查可用性与误封。
 - 动画完成后自动推进事件，保留玩家代码。支持固定种子、暂停、单步和时间线回看。
+- <img width="2546" height="1498" alt="image" src="https://github.com/user-attachments/assets/99a0bdb0-3075-4fe4-929f-431a9e0181e2" />
+
 
 ## 执行模式
 
